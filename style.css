@@ -6,6 +6,12 @@ body {
     background-color: rgba(54, 7, 79, 0.6);
 }
 /*Create the card container*/
+
+.wishes img {
+    background-size: center;
+    max-width: 150px;
+    max-height: 70px;
+}
 .birthdayCard {
     position: relative;
     width: 250px;
@@ -62,11 +68,11 @@ body {
     font-family: didot;
     text-align: center;
     backface-visibility: hidden;
-    font-size: 30px; 
+    font-size: 28px; 
 }
 
 .happy {
-    top:198px;
+    top:200px;
 }
 
 .toyou {
@@ -75,10 +81,10 @@ body {
 
 .bday {
     position: relative;
-    font-family: arial;
-    font-size: 30px;
+    font-family: didot;
+    font-size: 28px;
     text-align: center;
-    top:163px;
+    top:180px;
 }
 
 .wrap-deco {
@@ -237,10 +243,10 @@ body {
 
 p {
     font-family: 'Brush Script MT';
-    font-size: 18px;
+    font-size: 16px;
     color: #333;
 }
 
 .name {
-    margin-left:150px;
+    margin-left:100px;
 }
